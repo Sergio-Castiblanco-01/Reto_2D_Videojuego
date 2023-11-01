@@ -172,7 +172,7 @@ GameObject:
   - component: {fileID: 145942991}
   - component: {fileID: 145942990}
   m_Layer: 0
-  m_Name: Bombillo (3)
+  m_Name: Bombillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -363,7 +363,7 @@ GameObject:
   - component: {fileID: 163564953}
   - component: {fileID: 163564952}
   m_Layer: 0
-  m_Name: Bombillo (12)
+  m_Name: Bombillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6639,7 +6639,7 @@ GameObject:
   - component: {fileID: 267516724}
   - component: {fileID: 267516723}
   m_Layer: 0
-  m_Name: Bombillo (9)
+  m_Name: Bombillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6978,7 +6978,7 @@ GameObject:
   - component: {fileID: 359577522}
   - component: {fileID: 359577521}
   m_Layer: 0
-  m_Name: Bombillo (15)
+  m_Name: Bombillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7573,7 +7573,7 @@ GameObject:
   - component: {fileID: 555945638}
   - component: {fileID: 555945637}
   m_Layer: 0
-  m_Name: Bombillo (10)
+  m_Name: Bombillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7912,7 +7912,7 @@ GameObject:
   - component: {fileID: 582283654}
   - component: {fileID: 582283653}
   m_Layer: 0
-  m_Name: Bombillo (16)
+  m_Name: Bombillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23478,7 +23478,7 @@ GameObject:
   - component: {fileID: 712390640}
   - component: {fileID: 712390639}
   m_Layer: 0
-  m_Name: Bombillo (11)
+  m_Name: Bombillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24108,7 +24108,7 @@ GameObject:
   - component: {fileID: 980340380}
   - component: {fileID: 980340379}
   m_Layer: 0
-  m_Name: Bombillo (14)
+  m_Name: Bombillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24373,7 +24373,7 @@ GameObject:
   - component: {fileID: 1002853112}
   - component: {fileID: 1002853111}
   m_Layer: 0
-  m_Name: Bombillo (2)
+  m_Name: Bombillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24712,7 +24712,7 @@ GameObject:
   - component: {fileID: 1120959301}
   - component: {fileID: 1120959300}
   m_Layer: 0
-  m_Name: Bombillo (17)
+  m_Name: Bombillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25029,7 +25029,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2364798976004102855, guid: daa6165bb1ea245d9ab6f72904b160b8, type: 3}
       propertyPath: entro.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Nivel 1
+      value: Menu Principal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25605,7 +25605,7 @@ GameObject:
   - component: {fileID: 1380233895}
   - component: {fileID: 1380233894}
   m_Layer: 0
-  m_Name: Bombillo (4)
+  m_Name: Bombillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26016,7 +26016,7 @@ GameObject:
   - component: {fileID: 1514193241}
   - component: {fileID: 1514193240}
   m_Layer: 0
-  m_Name: Bombillo (5)
+  m_Name: Bombillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26207,7 +26207,7 @@ GameObject:
   - component: {fileID: 1525190988}
   - component: {fileID: 1525190987}
   m_Layer: 0
-  m_Name: Bombillo (6)
+  m_Name: Bombillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26472,7 +26472,7 @@ GameObject:
   - component: {fileID: 1661455775}
   - component: {fileID: 1661455774}
   m_Layer: 0
-  m_Name: Bombillo (7)
+  m_Name: Bombillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29154,7 +29154,7 @@ GameObject:
   - component: {fileID: 2018858023}
   - component: {fileID: 2018858022}
   m_Layer: 0
-  m_Name: Bombillo (8)
+  m_Name: Bombillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29345,7 +29345,7 @@ GameObject:
   - component: {fileID: 2050506957}
   - component: {fileID: 2050506956}
   m_Layer: 0
-  m_Name: Bombillo (1)
+  m_Name: Bombillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29704,7 +29704,7 @@ GameObject:
   - component: {fileID: 2066065664}
   - component: {fileID: 2066065663}
   m_Layer: 0
-  m_Name: Bombillo (13)
+  m_Name: Bombillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
